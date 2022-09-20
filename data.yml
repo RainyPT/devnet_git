@@ -1,0 +1,9 @@
+user:
+  location:
+    city: X
+    state: J
+  name: Rainy
+  roles:
+  - TCE
+  - Green
+  format: YAML
